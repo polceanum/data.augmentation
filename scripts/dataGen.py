@@ -1,3 +1,6 @@
+# script: Data generator. Reads cropped objects pickles and background images and generates image datasets.
+# author: Mihai Polceanu
+
 import cv2
 import numpy as np
 import os

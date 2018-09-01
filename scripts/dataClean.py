@@ -1,3 +1,6 @@
+# script: Data cleaner. Reads video files and generates pickles of cropped objects.
+# author: Mihai Polceanu
+
 import cv2
 import numpy as np
 import os
