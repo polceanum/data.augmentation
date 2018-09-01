@@ -1,0 +1,10 @@
+# Ignore data folders
+dataset_backgrounds/
+dataset_videos/
+
+# Ignore data archive
+data.augmentation.athome.tar.gz
+
+# Ignore generated folders
+generated_crop_data/
+generated_darknet_data/
